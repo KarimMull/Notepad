@@ -1,0 +1,11 @@
+C:\Users\Карим\source\repos\БЛОКНОТ\bin\Debug\БЛОКНОТ.exe.config
+C:\Users\Карим\source\repos\БЛОКНОТ\bin\Debug\БЛОКНОТ.exe
+C:\Users\Карим\source\repos\БЛОКНОТ\bin\Debug\БЛОКНОТ.pdb
+C:\Users\Карим\source\repos\БЛОКНОТ\obj\Debug\БЛОКНОТ.csproj.AssemblyReference.cache
+C:\Users\Карим\source\repos\БЛОКНОТ\obj\Debug\БЛОКНОТ.Form1.resources
+C:\Users\Карим\source\repos\БЛОКНОТ\obj\Debug\БЛОКНОТ.Properties.Resources.resources
+C:\Users\Карим\source\repos\БЛОКНОТ\obj\Debug\БЛОКНОТ.csproj.GenerateResource.cache
+C:\Users\Карим\source\repos\БЛОКНОТ\obj\Debug\БЛОКНОТ.csproj.CoreCompileInputs.cache
+C:\Users\Карим\source\repos\БЛОКНОТ\obj\Debug\БЛОКНОТ.exe
+C:\Users\Карим\source\repos\БЛОКНОТ\obj\Debug\БЛОКНОТ.pdb
+C:\Users\Карим\source\repos\БЛОКНОТ\obj\Debug\БЛОКНОТ.FontSettings.resources
